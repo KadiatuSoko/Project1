@@ -1,0 +1,182 @@
+div {
+	border-radius: 12px;
+}
+
+a:visited {
+    color: black;
+}
+
+.left {
+	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 10%;
+	height: 415px;
+	background-color: palegoldenrod;
+	margin-bottom: 10px;
+}
+
+.right {
+	position: relative;
+	float: right;
+	margin-top: 50px;
+	width: 88%;
+	height: 415px;
+	background-color: lightblue;
+	margin-bottom: 10px;
+}
+
+.rightProfile {
+	position: relative;
+	float: right;
+	margin-top: 50px;
+	width: 88%;
+	height: 415px;
+	background-color: lightblue;
+	margin-bottom: 10px;
+}
+
+.rightProfile h3 {
+	margin-left: 300px;
+}
+
+
+.rightProfile p {
+	margin-left: 300px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+	color: #000000;
+}
+
+.right h1 {
+	margin-left: 10px;
+}
+
+
+#cooking_imgs {
+    float:left;
+    margin-left:10px;
+    width: 400px;
+    height: 275px;
+    margin-top:25px;
+    border-radius: 25px;
+}
+
+
+#sports_imgs {
+    float:left;
+    margin-left:10px;
+    width: 220px;
+    height: 300px;
+    margin-top:25px;
+    border-radius: 25px;
+}
+
+#profile_imgs {
+    float:left;
+    margin-left:10px;
+    width: 170px;
+    height: 225px;
+    margin-top:25px;
+    border-radius: 25px;
+}
+
+
+#biz_imgs {
+    float:left;
+    margin-left:10px;
+    width: 400px;
+    height: 275px;
+    margin-top:25px;
+    border-radius: 25px;
+}
+
+
+#header {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 60px;
+	background-color: cadetblue;
+	margin-bottom: 10px;
+}
+
+#name {
+	float:left;
+	margin-left: 15px;
+	padding-top: 5px;
+	font-size: 19px;
+	font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-style:oblique;
+	color: black;
+}
+
+#link {
+	margin-left: 15px;
+	padding-top: 5px;
+	font-size: 15px;
+    font-weight: bold;
+	font-family: Verdana, sans-serif;
+	color: darkgreen;
+}
+
+#email {
+	float:right;
+	margin-right: 15px;
+	padding-top: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: antiquewhite;
+}
+
+h3 {
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: Verdana, sans-serif;
+}
+
+.left a {
+    float:center;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+}
+
+#first {
+    position:relative;
+	margin-left: 15px;
+}
+
+.right p {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+	color: #000000;
+}
+
+li {
+    float:center;
+    margin-left: 300px;
+}
+
+#footer {
+	position: relative;
+	height: 50px;
+	background-color: burlywood;
+	clear: both;
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+    font-weight: bold;
+	text-align: center;
+	color: darkgreen;
+}
+
+#footer p {
+	position: relative;
+	padding-top: 15px;
+}
